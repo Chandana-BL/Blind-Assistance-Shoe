@@ -27,8 +27,7 @@ The Blind Assistance Shoe incorporates:
 
 ## Circuit Diagram
 The circuit diagram for the Blind Assistance Shoe is shown below. 
-![Circuit Diagram](Blind-shoe.jpg)
-![Circuit Diagram](blind-shoe1.jpg)
+
 
 ## Code
 The source code for the project is given in the below:
@@ -38,7 +37,8 @@ The source code for the project is given in the below:
 
 ## Demo Photo
 A demo photo showcasing the assitance is shown below.
-[Watch the Demo photo](https://www.youtube.com/watch?v=example)
+![Circuit Diagram](Blind-shoe.jpg)
+![Circuit Diagram](blind-shoe1.jpg)
 
 ## Conclusion
 The Blind Assistance Shoe successfully integrates multiple technologies to assist visually impaired users. 
