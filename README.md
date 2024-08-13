@@ -27,7 +27,8 @@ The Blind Assistance Shoe incorporates:
 
 ## Circuit Diagram
 The circuit diagram for the Blind Assistance Shoe is available in the `circuit_diagram` directory. 
-![Circuit Diagram](circuit_diagram/circuit_diagram.png)
+![Circuit Diagram](Blind-shoe.jpg)
+![Circuit Diagram](Blind-shoe1.jpg)
 
 ## Code
 The source code for the project is given in the below:
