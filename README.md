@@ -1,4 +1,4 @@
-# Blind Assistance Shoe
+#  Blind Assistance Shoe👟
 
 ## Introduction
 The Blind Assistance Shoe is designed to assist visually impaired individuals by providing real-time navigation and obstacle detection.
