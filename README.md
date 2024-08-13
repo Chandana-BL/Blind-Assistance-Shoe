@@ -25,8 +25,34 @@ The Blind Assistance Shoe incorporates:
 - Vibration Motor
 - Miscellaneous electronic components (resistors, capacitors, etc.)
 
-## Circuit Diagram
-The circuit diagram for the Blind Assistance Shoe is shown below. 
+## Circuit Details
+The circuit details for the Blind Assistance Shoe is given below. 
+
+1. HC-SR04 Ultrasonic Sensor
+VCC to Arduino Nano 5V
+GND to Arduino Nano GND
+Trig to Arduino Nano D2
+Echo to Arduino Nano D3
+
+2. GPS Module (e.g., Neo-6M)
+VCC to Arduino Nano 5V
+GND to Arduino Nano GND
+TX to Arduino Nano D4 (RX)
+RX to Arduino Nano D5 (TX)
+
+3. GSM Module (e.g., SIM900)
+VCC to Arduino Nano 5V (or an external power source, depending on GSM module requirements)
+GND to Arduino Nano GND
+TX to Arduino Nano D7 (RX)
+RX to Arduino Nano D8 (TX)
+
+4. Buzzer
+Positive Terminal to Arduino Nano D9
+Negative Terminal to Arduino Nano GND (you can use a pin like D12 as a GND connection if necessary)
+
+5. Vibration Motor
+Positive Terminal to Arduino Nano D10
+Negative Terminal to Arduino Nano GND
 
 
 ## Code
