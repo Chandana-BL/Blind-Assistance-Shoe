@@ -26,9 +26,9 @@ The Blind Assistance Shoe incorporates:
 - Miscellaneous electronic components (resistors, capacitors, etc.)
 
 ## Circuit Diagram
-The circuit diagram for the Blind Assistance Shoe is available in the `circuit_diagram` directory. 
+The circuit diagram for the Blind Assistance Shoe is shown below. 
 ![Circuit Diagram](Blind-shoe.jpg)
-![Circuit Diagram](Blind-shoe1.jpg)
+![Circuit Diagram](blind-shoe1.jpg)
 
 ## Code
 The source code for the project is given in the below:
